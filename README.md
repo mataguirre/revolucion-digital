@@ -1,4 +1,4 @@
-# revolucion-digital
+# Revolucion-Digital
 Portfolio personal hecho por Aguirre Matías
 
 Bueno en este proyecto puse todo mi conocimiento y habilidades de desarrollo web. Fue una experiencia muy grata debido a que aprendí un montón de cosas nuevas.
